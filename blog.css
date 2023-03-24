@@ -1,0 +1,17 @@
+nav{
+    font-size: 3vw;
+    margin-left: auto;
+}
+img{
+    width: 30%;
+    margin: auto;
+    height: 300px;
+    object-fit: cover;
+    object-position: bottom;
+}
+@media(max-width: 800px)
+{
+    nav{
+        font-size: 20vw;
+    }
+}
